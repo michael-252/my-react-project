@@ -5,35 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: aqua;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-.App{
-background-color: beige;
-text-align: center;
-height: 50vh;
-width: 60%;
-align-items: center;
-margin-left: 30%;
-border: 3px solid rgb(51, 37, 37);
-border-radius: 50px;
-margin-top: 30px;
-}
-.btn{
-  align-content: space-between;
-  border: 3px solid gray;
-  border-radius: 10px;
-  color:white;
-  background-color: blue;
-}
-h1{
-  color: red;
-}
-h2{
-  color: white;
-  background-color: black;
 }
